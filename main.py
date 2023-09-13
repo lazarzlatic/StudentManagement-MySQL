@@ -5,6 +5,7 @@ from PyQt6.QtWidgets import QApplication, QLabel, QWidget, QGridLayout, \
 from PyQt6.QtGui import QAction, QIcon
 import sys
 import sqlite3
+# MySQL
 import mysql.connector
 
 
